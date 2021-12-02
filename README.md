@@ -1,4 +1,4 @@
-<p align="center">OpenPeep's template repository used for developing Nim projects and libraries.<br><strong>Pistachio comes with simple GIT repository following Nim's coding standard and a simple project structure.</strong></p>
+<p align="center">OpenPeep's repository template used for developing Nim projects, libraries and other cool things.<br><strong>Pistachio comes with simple GIT repository following Nim's coding standard and a simple project structure.</strong></p>
 
 ## 😍 Key Features
 - [x] Made with Love
