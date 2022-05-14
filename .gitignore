@@ -5,3 +5,4 @@ htmldocs/
 testresults/
 /tests/*
 !/tests/*.nim
+!/tests/*.nims
