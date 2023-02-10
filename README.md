@@ -8,7 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/">API reference</a> | <img src="https://github.com/openpeep/pistachio/workflows/test/badge.svg" alt="Github Actions">
+  <a href="https://github.com/">API reference</a><br>
+  <img src="https://github.com/openpeep/pistachio/workflows/test/badge.svg" alt="Github Actions">  <img src="https://github.com/openpeep/pistachio/workflows/docs/badge.svg" alt="Github Actions">
 </p>
 
 ## 😍 Key Features
