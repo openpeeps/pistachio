@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://github.com/openpeep/PKG/blob/main/.github/logo.png" width="90px"><br>
-  OpenPeep's repository template for developing libraries,<br>projects and other cool things. 👑 Written in Nim language
+  <img src="https://github.com/openpeeps/PKG/blob/main/.github/logo.png" width="90px"><br>
+  OpenPeeps repository template for developing libraries,<br>projects and other cool things. 👑 Written in Nim language
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/">API reference</a><br>
-  <img src="https://github.com/openpeep/pistachio/workflows/test/badge.svg" alt="Github Actions">  <img src="https://github.com/openpeep/pistachio/workflows/docs/badge.svg" alt="Github Actions">
+  <img src="https://github.com/openpeeps/pistachio/workflows/test/badge.svg" alt="Github Actions">  <img src="https://github.com/openpeeps/pistachio/workflows/docs/badge.svg" alt="Github Actions">
 </p>
 
 ## 😍 Key Features
@@ -26,5 +26,5 @@
 - 🥰 [Donate via PayPal address](https://www.paypal.com/donate/?hosted_button_id=RJK3ZTDWPL55C)
 
 ### 🎩 License
-{PKG} | MIT license. [Made by Humans from OpenPeep](https://github.com/openpeep).<br>
-Copyright &copy; 2023 OpenPeep & Contributors &mdash; All rights reserved.
+{PKG} | MIT license. [Made by Humans from OpenPeeps](https://github.com/openpeeps).<br>
+Copyright &copy; 2023 OpenPeeps & Contributors &mdash; All rights reserved.
