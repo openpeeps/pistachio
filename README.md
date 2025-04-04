@@ -27,4 +27,4 @@
 
 ### 🎩 License
 {PKG} | MIT license. [Made by Humans from OpenPeeps](https://github.com/openpeeps).<br>
-Copyright &copy; 2023 OpenPeeps & Contributors &mdash; All rights reserved.
+Copyright &copy; 2025 OpenPeeps & Contributors &mdash; All rights reserved.
