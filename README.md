@@ -23,8 +23,7 @@
 - 🐛 Found a bug? [Create a new Issue](/issues)
 - 👋 Wanna help? [Fork it!](/fork)
 - 😎 [Get €20 in cloud credits from Hetzner](https://hetzner.cloud/?ref=Hm0mYGM9NxZ4)
-- 🥰 [Donate via PayPal address](https://www.paypal.com/donate/?hosted_button_id=RJK3ZTDWPL55C)
 
 ### 🎩 License
 {PKG} | MIT license. [Made by Humans from OpenPeeps](https://github.com/openpeeps).<br>
-Copyright &copy; 2025 OpenPeeps & Contributors &mdash; All rights reserved.
+Copyright OpenPeeps & Contributors &mdash; All rights reserved.
